@@ -5,3 +5,9 @@ build/
 *.egg-info/
 .venv/
 .tmp/
+/dist/*
+!/dist/vnc-mcp.exe
+!/dist/vnc-mcp-win-x64.zip
+!/dist/README.md
+!/dist/LICENSE
+!/dist/NOTICE
